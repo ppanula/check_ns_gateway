@@ -1,4 +1,5 @@
 Checks Netscaler gateway vserver status.
+
 Tested on CentOS 6.x, Python v2.6.6
 
 Requirements: 
