@@ -1,6 +1,8 @@
-Checks Netscaler gateway vserver status
+Checks Netscaler gateway vserver status.
+Tested on CentOS 6.x, Python v2.6.6
 
 Requirements: 
+
 Citrix nitro-python api installed, download it from inside Netscaler appliance
 located: /var/netscaler/nitro/nitro-python.tgz
 unpack and install it: python setup.py install
