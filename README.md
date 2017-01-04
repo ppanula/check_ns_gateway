@@ -5,7 +5,7 @@ Requirements:
 
 Citrix nitro-python api installed, download it from inside Netscaler appliance
 located: /var/netscaler/nitro/nitro-python.tgz
-unpack and install it: python setup.py install
+unpack and install it: ```python setup.py install```
 
 nagios command template:
   - set user macros USER47 and USER48 in resource.cfg, as username and password for Netscaler
